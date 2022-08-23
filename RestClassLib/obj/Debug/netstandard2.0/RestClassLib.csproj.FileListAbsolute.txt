@@ -1,0 +1,9 @@
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\bin\Debug\netstandard2.0\RestClassLib.deps.json
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\bin\Debug\netstandard2.0\RestClassLib.dll
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\bin\Debug\netstandard2.0\RestClassLib.pdb
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.csprojAssemblyReference.cache
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.AssemblyInfoInputs.cache
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.AssemblyInfo.cs
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.csproj.CoreCompileInputs.cache
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.dll
+C:\Ashok Selenium C#\Day6\LabExcer\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.pdb
